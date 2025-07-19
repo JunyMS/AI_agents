@@ -19,3 +19,16 @@ Si recibes un error como:
 2. Instala kernel: pip install ipykernel -U --force-reinstall
 3. Si falla: pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org ipykernel
 4. Desactiva environment: deactivate
+
+Git
+juny1@DESKTOP-R3S1OA9 MINGW64 ~/OneDrive/Documentos/PROYECTOS/AI_AGENTS/AI_agents (main)
+$ git remote add upstream https://github.com/joanby/agents.git
+
+juny1@DESKTOP-R3S1OA9 MINGW64 ~/OneDrive/Documentos/PROYECTOS/AI_AGENTS/AI_agents (main)
+$ git fetch upstream
+From https://github.com/joanby/agents
+ * [new branch]      main       -> upstream/main
+
+juny1@DESKTOP-R3S1OA9 MINGW64 ~/OneDrive/Documentos/PROYECTOS/AI_AGENTS/AI_agents (main)
+$ git merge upstream/main
+Already up to date.
