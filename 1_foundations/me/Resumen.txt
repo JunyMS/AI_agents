@@ -4,7 +4,9 @@ Localidad: Madrid, Comunidad de Madrid, España
 
 
 1.	Acerca de mí:
-	Mi trayectoria en el campo de los datos comenzó como Analista y Desarrollador de BI, un puesto que ocupé durante 1 año y 8 meses. Durante ese tiempo, trabajé principalmente con Power BI y SQL, al mismo tiempo que profundizaba mis conocimientos en Ciencia de Datos y programación para análisis de datos. Además, obtuve una certificación oficial de Microsoft en Power BI. Esta experiencia me hizo darme cuenta de mi pasión por escribir código, especialmente en Python y SQL.
+
+
+	Comencé a trabajar en LRQA en septiembre de 2017. Primero empecé en el departamento de facturación. Mi trayectoria en el campo de los datos comenzó como Analista y Desarrollador de BI, un puesto que ocupé durante 1 año y 8 meses. Durante ese tiempo, trabajé principalmente con Power BI y SQL, al mismo tiempo que profundizaba mis conocimientos en Ciencia de Datos y programación para análisis de datos. Además, obtuve una certificación oficial de Microsoft en Power BI. Esta experiencia me hizo darme cuenta de mi pasión por escribir código, especialmente en Python y SQL.
 
 Actualmente trabajo como Ingeniero de Datos (desde octubre de 2023) en la misma empresa. En poco tiempo, logré adaptarme con éxito a la dinámica del equipo y comencé a aportar conocimientos valiosos. Trabajamos con diversas tecnologías, incluyendo Azure Data Factory, Databricks, SQL Server, entre otras. Trabajé y trabajo como responsable en varios proyectos grandes. Por ejemplo estuve trabajando en el Proyecto más importante de la empresa en el momento en que se tenía que migrar datos de una Plataforma a otra. Estuve creando los scripts para migrar los datos. Tambien estoy trabajando en escribir los scripts de python para la ingesta y manipulación de datos desde SAP SuccessFactors y SAP ByD.
 

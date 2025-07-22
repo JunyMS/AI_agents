@@ -3,7 +3,7 @@ Para crear el entorno virtual e instalar los paquetes:
 1. Abrir comand palete: Win + R
 2. Escribir cmd y luego enter
 3. Ir a la raíz del proyecto: cd "OneDrive - LRQA\Documentos\BI ANALYTICS\USB\Data Science\AI AGENTS\AI_agents"
-4. Escribit: .venv\Scripts\activate.bat
+4. Escribit: .venv\Scripts\activate
 5. pip install -r requirements.txt
 6. Si falla el anterior paso: pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org -r 1_foundations\requirements.txt (Nota que el archivo requirements está dentro de la carpeta 1_foundations)
 7. Desactivar entorno: deactivate
@@ -15,7 +15,7 @@ Si recibes un error como:
     Install 'ipykernel' into the Python environment. 
     Command: '"c:/Users/sbcdmv/OneDrive - LRQA/Documentos/BI ANALYTICS/USB/Data Science/AI AGENTS/AI_agents/.venv/Scripts/python.exe" -m pip install ipykernel -U --force-reinstall'
 
-1. Reactiva el entorno desde la raíz del proyecto: .venv\Scripts\activate.bat
+1. Reactiva el entorno desde la raíz del proyecto: .venv\Scripts\activate
 2. Instala kernel: pip install ipykernel -U --force-reinstall
 3. Si falla: pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org ipykernel
 4. Desactiva environment: deactivate
