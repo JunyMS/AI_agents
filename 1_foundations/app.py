@@ -84,8 +84,8 @@ class Me:
         #     text = page.extract_text()
         #     if text:
         #         self.linkedin += text
-        # No haré uso del CV, sino que tengo todos los detalles en Resumen.txt
-        with open("me/Resumen.txt", "r", encoding="utf-8") as f:
+        # No haré uso del CV, sino que tengo todos los detalles en summary.txt
+        with open("me/summary.txt", "r", encoding="utf-8") as f:
             self.summary = f.read()
 
 

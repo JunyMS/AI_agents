@@ -1,1 +1,232 @@
-Me llamo Juan Gabriel Gomila. Soy emprendedor, matemático y científico de datos. Soy originario de Palma de Mallorca, España y he vivido aquí toda la vida. Me encantan todas las comidas, en especial la española y la italiana. En particular, me encanta visitar las mejores pizzerías de cada lugar que visito, pues la pizza es mi comida favorita sin lugar a dudas. 
+Nombre: Dzhuneyt Myumyunov Saliev
+Puesto actual: Data Engineer en LRQA España
+Localidad: Madrid, Comunidad de Madrid, España
+
+
+1.	Acerca de mí:
+
+
+Comencé a trabajar en LRQA en septiembre de 2017. Primero empecé en el departamento de facturación. En este departamento, empecé a crear reports de power BI e interesarme por la ciencia de datos. Surgió una oportunidad de puesto en el departamento de BI Analytics y me contratarón en dicho departamento. 
+
+Mi trayectoria en el campo de los datos comenzó como Analista y Desarrollador de BI, un puesto que ocupé durante 1 año y 8 meses. Durante ese tiempo, trabajé principalmente con Power BI y SQL, al mismo tiempo que profundizaba mis conocimientos en Ciencia de Datos y programación para análisis de datos. Además, obtuve una certificación oficial de Microsoft en Power BI. Esta experiencia me hizo darme cuenta de mi pasión por escribir código, especialmente en Python y SQL.
+
+Actualmente trabajo como Ingeniero de Datos (desde octubre de 2023) en la misma empresa. En poco tiempo, logré adaptarme con éxito a la dinámica del equipo y comencé a aportar conocimientos valiosos. Trabajamos con diversas tecnologías, incluyendo Azure Data Factory, Databricks, SQL Server, entre otras. Trabajé y trabajo como responsable en varios proyectos grandes. Por ejemplo estuve trabajando en el Proyecto más importante de la empresa en el momento en que se tenía que migrar datos de una Plataforma a otra. Estuve creando los scripts para migrar los datos. Tambien estoy trabajando en escribir los scripts de python para la ingesta y manipulación de datos desde SAP SuccessFactors y SAP ByD.
+
+A pesar de que haya estudiado y formado sobre ciencia de datos, considero que mis conocimientos en este área son limitados, ya que la ciencia de datos es un campo bastante inmenso. Me gusta más la ingenería de datos y la programación.
+
+Principales aptitudes:
+	Python, SQL, Azure Databricks, Azure Data Lake, Azure Data Factory
+
+2.	Experiencia:
+	A. Empresa: LRQA 
+		i.	Puesto: Data Engineering
+			Jornada completa 
+			Comienzo: octubre 2023
+			Fin: sigo trabajando aquí
+
+		ii.	Business Intelligence Data Analyst and Developer
+			Jornada completa
+			Comienzo: mar. 2022
+			Fin: oct. 2023
+			Duración: 1 año 8 meses
+
+		iii.	Puesto: Invoicing Specialist
+			Jornada completa
+			Comienzo: sept. 2017
+			Fin: mar. 2024
+			Duración: 4 años 7 meses
+
+	B. Empresa: Lloyd's Register 
+		i.	Puesto: Personal auxiliar de contabilidad
+			Contrato temporal
+			Comienzo: sept. 2016
+			Fin: sept. 2017
+
+3.	Educación:
+	A. 	Institución ducativa: ITTI High Tech Institute
+		Título: Bootcamp
+		Disciplina académica: Data Science
+		Comienzo: feb. 2022
+		Fin: jul. 2022
+		Aptitudes: Python, Big Data, SQL, Ciencia de datos
+
+	B. 	Institución ducativa: Virgen de la Paloma
+		Título: Técnico superior de ADE
+		Disciplina académica: Formación profesional
+		Comienzo: sep. 2014
+		Fin: sep. 2016
+		Aptitudes: Python, Big Data, SQL, Ciencia de datos
+
+4. Licencias y certificaciones:
+	A. 	Data Ingestion with Delta Lake 
+		Databricks
+		Expedición: mar. 2025
+		Certificate URL: 
+
+	B.	[PCEP-30-02] PCEP™ – Certified Entry-Level Python Programmer
+		OpenEDG Python Institute
+		Expedición: mar. 2025
+		Certificate URL: https://www.credly.com/badges/179cb8af-6887-4396-864a-7885e07822e3
+
+	C.	Python Essentials 1
+		Cisco Networking Academy
+		Expedición: mar. 2025
+		Certificate URL: https://www.credly.com/badges/cd94e4df-d65f-4c66-9f41-3ba4832cdb7f
+
+	D.	Data Engineering with Databricks
+		Databricks
+		Expedición: oct. 2024
+
+	E.	Apache Spark Programming with Databricks
+		Databricks
+		Expedición: sept. 2024
+
+	F.	Machine Learning A-Z: Python & R for Data Science
+		Udemy
+		Expedición: dic. 2022
+		Certificate URL: https://www.udemy.com/certificate/UC-8005a1aa-a78f-490f-af38-305e01d48024/
+	
+	G.	Power BI Data Analyst Associate
+		Microsoft
+		Expedición: dic. 2022
+
+	H.	Bootcamp - Data Science Executive
+		ITII - High Tech Institute
+		Expedición: sept. 2022
+		Certificate URL: https://itti.certifiedme.eu/cxbbx2xugm
+
+	I.	Data Analysis Using Python
+		IBM
+		Expedición: feb. 2022
+		Certificate URL: https://www.credly.com/badges/71ace991-3ae7-4ac3-9df8-34a9ab45e879?source=linked_in_profile
+
+	J.	Data Analysis with Python
+		Cognitive Class
+		Expedición: feb. 2022
+		Certificate URL: https://courses.cognitiveclass.ai/certificates/5bc6dc6352d54c8c9a0e53d69f625bfd
+
+	K.	R. Complete course - R for Data Science and Machine Learning
+		Udemy
+		Expedición: dic. 2021
+		Certificate URL: https://www.udemy.com/certificate/UC-9f31df34-bea0-4c9d-99ef-e81e7179c155/
+
+	L.	Descubre las capacidades de Microsoft Power Apps
+		LinkedIn
+		expedición: oct. 2021
+
+	M.	Automatización de procesos con Power Automate
+		LinkedIn
+		ago. 2021
+
+	N.	Common Data Service and Microsoft PowerApps essential
+		LinkedIn
+		jul. 2021
+
+	O.	Microsoft Power Automate essential
+		LinkedIn
+		jun. 2021
+
+	P.	Power BI Advanced
+		LinkedIn
+		jun. 2021
+
+	Q.	SQL Essential Training
+		LinkedIn
+		jun. 2021
+
+	R.	Microsoft Excel Advanced
+		Manpower Academy Spain
+		oct. 2020
+
+	S.	Estrategias de comunicación con el cliente
+		CEOE Formación
+		oct. 2019
+
+	T.	Microsoft Excel Intermediate
+		Manpower Academy Spain
+		oct. 2019
+
+
+5.	Proyectos
+
+	A.	Pipeline creation for SuccessFactors data
+		LRQA - may. 2025 - actualidad
+		Designing and implementing a data ingestion and manipulation pipeline utilizing Databricks and Azure Data Factory for SuccessFactors data, retrieving via API calls, actually an outsourced process to an external company. A significant component of this project is the re-engineering of existing data tables to internalize a critical process.
+
+	B.	OneCRM
+		LRQA - sept. 2024 - abr. 2025
+		I am an integral part of a data migration project, playing a key role in the creation and maintenance of scripts for data extraction, transformation, and loading (ETL). By developing various functions in Python within Databricks, I have significantly streamlined the data loading process, saving us considerable time.
+
+
+6.	Reconocimientos y premios
+
+	A.	OneCRM Project Award Recognition
+		Expedida por my Line Manager, Ryan Page · dic. 2024Expedida
+		"Well Done Juny! All your work on OneCRM has been crutial to getting inspection live and your continued support is not going un-noticed. your Expertise in Pyton and quick understanding of the business has saved days if not weeks worth of time on the project. Thank you."
+
+	B.	OneCRM Project Recognition
+		Expedida por my teammate · nov. 2024
+		"Amazing work on OneCRM, they should have an award for it!"
+
+	C. 	Informatica Project award
+		Expedida por my Line Manager, Ryan Page · ago. 2024
+		"Juny over the Past few Months has but massive amounts of effort into the Informatica Replacement Project and today finally completed the last migration piece along the way. Juny had trained others and co-owned the migration of informatica and has riased points where he does not think the old code was correct but also come with workable sollutions. Amazing Work Juny! Thanks you for all the Hard Work you have put into this."
+
+	D.	Congratulations from Area Invoicing Manager for highlighting the changes required
+		Expedida por Javier Mañó · nov. 2021
+		"Hi Juny: Thank for highlighting the changes required in the letters to debtors. You are a gatekeeper to ensure things are done properly. Well done. Regards. Javier"
+
+	E.	Spotlight Award from Daniel Oliva
+		Expedida por Daniel Oliva · oct. 2021
+		"Enhorabuena Juny ! You are Super ! I am pleased to nominate you for Spotlight Award this quarter. Your support on Super User community, Ideas implementation and overall teamwork is appreciated. All the best, Daniel Oliva"
+
+	F.	Congratulations for being the back up of my line manager
+		Expedida por Javier Mañó · sept. 2021
+		"Javier Maño has sent you the following message:
+Hi Juny: Thank you very much for being the back up of Julia and point of contact with me during her sick leave. Regards"
+
+	G.	Congratulations from Italy Invoicing Lead for the Power BI report
+		Expedida por Monica Beltrami · ago. 2021
+		"Monica Beltrami has sent you the following message:
+Dear Juny I would like to thank you for the fantastic report you created in BI and to have it shared and customized also for Italy. Brilliant mind."
+
+	H.	Power of Us Winner. - Best Coworkers
+		Expedida por Local Coordination Team Iberia - LRQA · jul. 2021
+		Natalia Varela said: "A good coworker is someone many employees enjoy working with. You are willing to help the team succeed and meet the company goals. You have a positive attitude and treat the others with respect. ALL OF US ARE VERY HAPPY THAT YOU BELONG TO OUR TEAM !! Recognition comes from Local Coordination Team Iberia ( Olga , Ruth, Natalia, Cristina, Alberto, Julia )"
+
+	I.	Power of Us from Marketing Representative
+		Expedida por Cristina Fernández · jun. 2021
+		"Cristina Fernández has sent you the following message: Thanks for always being available to help. Thanks for finding a minute of your time in your busy days to help out. Thanks for understanding the needs and priorities and for being able to identify when your help is key. Thanks colleague, you are a great example of collaboration!"
+
+	J.	Cangratulations for SDS Superusers
+		Expedida por Amélie Ponta · may. 2021
+		"Amelie Ponta has sent you the following message:
+Dear SDS SEUR Superusers, I would like to thank you for all the support you are providing to the SEUR SDS Teams with the engagement, time and effort you are providing to solve issues, do UAT tests, right procedures, train people, raise issues, etc.. On the last SDS Champions calls, the time now spent by SEUR solving issues was officially recognised so good job and keep up the good trend ! The work you are doing for process improvements but also client & people satisfaction.
+"
+
+	K.	Congratulation for Power BI report that I created.
+		Expedida por Amélie Ponta · may. 2021
+		"Amelie Ponta has sent you the following message: Great job to develop the Power BI Subcontractors report and all the support provided as superuser ! I would like to recognise your positive & can-do attitude as well as your capacity with the use of technology, adapting to different systems and learning to use new tools, such as the PBI report that you created by yourself via youtube. You are a key member of the team & superusers community, supporting and influencing others. THANK YOU for all this :)"
+
+	L.	Power of Us - Power BI report. Congratulations by line manager
+		Expedida por Julia Barea · may. 2021
+		"Julia Barea has sent you the following message: Dear Juny, What a great improvement with your subcontractors' Power BI report, and created by yourself !!! Congratulations, congratulations, and Thank you!!!!!!! This report will be useful and helpful not only for us, but probably for all South Europe. Thanks Juny for being always trying to help and improve people and business!!."
+
+	M.	Congratulations from Coca Cola European Partners Iberia
+		Expedida por Coca Cola - Alberto Maldonado · ene. 2021
+		I'm in charge of the billing for Coca Cola. Alberto Maldonado congratulated me on the billing process carried out with Coca Cola for having worked very well.
+
+	N.	Congratulations from the Area Manager
+		Expedida por Javier Mañó · ene. 2021
+		"Hi Juny: Congratulations for the formal recognition of Coca Cola European Partners to the good job with the invoicing process in 2020. Keep it up! Regards. Javier"
+
+	O.	Congratulations from credit collection team
+		Expedida por Antonio Cler · ene. 2020
+		It is always a pleasure to work with you Juny and your contribution to the great results that we have in Business Assurance in Spain is outstanding.
+
+
+7.	Idiomas
+	A. Búlgaro - competencia básica
+	B. Español - competencia nativa
+	C. Turco - competencia básica
+	D. Inglés - competencia profesional
