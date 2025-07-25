@@ -1,0 +1,45 @@
+Para enviar emails usando Gmail desde tus AI agents, necesitas:
+
+Configurar el acceso SMTP de Gmail
+Agregar tus credenciales de Gmail al archivo .env
+Modificar tu código para usar SMTP en vez de SendGrid
+1. Configura el acceso SMTP de Gmail
+Activa la verificación en dos pasos en tu cuenta de Google.
+Crea una contraseña de aplicación en este enlace.
+Guarda esa contraseña, la necesitarás como GMAIL_APP_PASSWORD.
+2. Agrega estas variables a tu .env:
+
+GMAIL_USER=tu_email@gmail.com
+GMAIL_APP_PASSWORD=tu_contraseña_de_aplicación
+
+
+3. Ejemplo de código en Python para enviar email con Gmail SMTP
+
+import os
+import smtplib
+from email.mime.text import MIMEText
+from dotenv import load_dotenv
+
+load_dotenv()
+
+gmail_user = os.getenv("GMAIL_USER")
+gmail_password = os.getenv("GMAIL_APP_PASSWORD")
+
+def send_email(subject, body, to):
+    msg = MIMEText(body)
+    msg['Subject'] = subject
+    msg['From'] = gmail_user
+    msg['To'] = to
+
+    with smtplib.SMTP_SSL('smtp.gmail.com', 465) as server:
+        server.login(gmail_user, gmail_password)
+        server.sendmail(gmail_user, [to], msg.as_string())
+
+# Ejemplo de uso:
+send_email("Hola desde AI agent", "Este es un mensaje enviado por tu agente AI.", "destinatario@ejemplo.com")
+
+
+4. Integra esta función en tu AI agent
+Reemplaza la lógica de envío de email (por ejemplo, la que usa SendGrid) por esta función.
+
+¿Quieres ayuda para integrarlo en tu código actual? Si es así, dime qué archivo y función usas para enviar emails.
