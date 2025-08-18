@@ -1,6 +1,7 @@
 requests
 python-dotenv
 gradio
+streamlit==1.48.1
 pypdf
 openai
 openai-agents
